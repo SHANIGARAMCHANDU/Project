@@ -1,1 +1,1 @@
-console based House rental system by Java oops 
+Console Based House Rental System by Java OOPs 
